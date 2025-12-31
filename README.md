@@ -1,2 +1,2 @@
 # Umar_agency
-A digital marketing and automation agency specializing in AI-driven SEO, online visibility, and workflow optimization.
+The first AI and LLMO agency in Uzbekistan, helping businesses grow through AI-powered marketing and Automations
